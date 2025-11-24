@@ -30,7 +30,7 @@ RTP_Tweaks is a Paper 1.21.4 plugin that intelligently groups players together w
 ## 📋 Requirements
 
 - **Server**: Paper/Spigot 1.21.4 (or compatible)
-- **Dependencies**: [Better RTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/) v4.0+
+- **Dependencies**: [Better RTP](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/)
 - **Java**: Java 17 or higher
 
 ---
@@ -263,12 +263,6 @@ Contributions are welcome! Areas for improvement:
 
 ---
 
-## 📜 License
-
-[Add your license here]
-
----
-
 ## 🙏 Credits
 
 - **Better RTP**: [SuperRonanCraft](https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/)
@@ -279,3 +273,4 @@ Contributions are welcome! Areas for improvement:
 ---
 
 **Made with ❤️ for the Minecraft community**
+
